@@ -1,2 +1,0 @@
-# ajleahey.github.io
- 

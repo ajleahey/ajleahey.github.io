@@ -23,8 +23,8 @@ email: andrew@leahey.org
 description: >- # this means to ignore newlines until "baseurl:"
   Not sure what this will be just yet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: leahey
+url: "https://leahey.org" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: leahey
 github_username:  ajleahey
 
 # Build settings

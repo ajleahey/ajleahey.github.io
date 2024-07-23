@@ -3,3 +3,19 @@
 ---
 
 @import "minima";
+
+---
+---
+
+@font-face {
+  font-family: 'EBGaramond';
+  src: url('/fonts/EBGaramond-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'EBGaramond', serif;
+}
+
+/* Add additional styles for other elements if needed */

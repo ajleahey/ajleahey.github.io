@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-
 ## Legal Writing for General Public
 - [Archive of older columns](https://andrew.legal/columns) | [Newest on Bloomberg](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22andrew%20leahey%22%0A)  
   An archive of columns where I delve into the intersection of tax, technology, and policy.

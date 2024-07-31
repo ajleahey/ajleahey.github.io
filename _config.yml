@@ -45,6 +45,7 @@ show_excerpts: true
 
 header_pages:
   - about.md
+  - projects.md
   - links.md
 
 #remote_theme: pages-themes/midnight@v0.2.0

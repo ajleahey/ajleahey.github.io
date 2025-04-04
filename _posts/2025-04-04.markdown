@@ -1,5 +1,8 @@
 ---
-title: 'Twenty Years of Domain Anticipation '
+layout: post
+title: 'Twenty Years of Domain Anticipation'
+date: 2025-04-04 17:18:35 -0400
+categories: blog
 ---
 If you visit [leahey.net](https://leahey.net) you'll now find it redirects to this site. This is the culmination of twenty years of patient waiting and setting reminders on my calendar for dates in the distant future when it might expire.
 

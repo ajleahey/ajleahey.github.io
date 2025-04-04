@@ -14,7 +14,7 @@ My professional site where you can find more about my work and contributions.
 
 ## Minimum Competence
 A daily legal news podcast and newsletter providing summaries and commentary on top legal stories.  
-[Minimum Competence](https://minimumcomp.com)
+[Minimum Competence](https://www.minimumcomp.com)
 
 ## esq.social Mastodon Instance
 A Mastodon instance specifically for legal professionals to connect and share insights.  

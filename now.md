@@ -21,4 +21,6 @@ I am a contributor to *Forbes* [Taxes](https://www.forbes.com/taxes/) section.
 
 I have a weekly (on weekdays) legal news podcast, [Minimum Competence](https://www.minimumcomp.com). 
 
-I can be found [blabbering](https://esq.social/@andrew) or adminning the [esq.social](https://esq.social) Mastodon instance.
+I can be found [blabbering](https://esq.social/@andrew) or adminning the [esq.social](https://esq.social) Mastodon instance. 
+
+I'm in the early stages of planning for some new videos for our YouTube channel, [Falling Leaves Cabin](https://fallingleavescabin.com).

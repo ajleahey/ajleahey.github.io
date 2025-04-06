@@ -23,4 +23,4 @@ I have a weekly (on weekdays) legal news podcast, [Minimum Competence](https://w
 
 I can be found [blabbering](https://esq.social/@andrew) or adminning the [esq.social](https://esq.social) Mastodon instance. 
 
-I'm in the early stages of planning for some new videos for our YouTube channel, [Falling Leaves Cabin](https://fallingleavescabin.com).
+I'm in the early stages of planning for some new videos for our YouTube channel, [Falling Leaves Cabin](http://fallingleavescabin.com).

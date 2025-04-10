@@ -11,6 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+- name: Fetch JSON from RSS2JSON
+  run: |
+    mkdir -p _data
+    curl -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.bloombergtax.com%2Fapi%2Fv1%2Frss%2Ftax-insights-and-commentary%3_
+
+
       - name: Fetch JSON from RSS2JSON
         run: |
           curl -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.bloombergtax.com%2Fapi%2Fv1%2Frss%2Ftax-insights-and-commentary%3Fquery%3D%2522andrew%2520leahey" -o _data/bloomberg.json

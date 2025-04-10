@@ -1,3 +1,9 @@
+---
+layout: page
+title: My Writing
+permalink: /writing/
+---
+
 {% assign posts = site.data.bloomberg.items %}
 <ul class="bloomberg-columns">
   {% for post in posts %}

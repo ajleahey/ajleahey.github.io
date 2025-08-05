@@ -9,7 +9,7 @@ What am I up to? You mean like [nownownow](https://nownownow.com/about "NowNowNo
 
 ### Teaching
 
-I'm not teaching over the summer quarter. I'll be returning to Drexel Kline School of Law as an Assistant Professor beginning September 1.  
+I'm not teaching over the summer quarter. I'll be returning to Drexel Kline School of Law as an Assistant Professor beginning September 1.
 
 ### Writing
 

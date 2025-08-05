@@ -13,7 +13,7 @@ I'm not teaching over the summer quarter. I'll be returning to Drexel Kline Scho
 
 ### Writing
 
-I continue to write my weekly column "[Technically Speaking](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22andrew%20leahey)" for *Bloomberg Tax*, as well as writing the introduction to the weekly newsletter "[Week in Insights](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22Andrew%20leahey%22%20%22week%20in%20insights%22%0A)"
+I continue to write my weekly column "[Technically Speaking](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22andrew%20leahey)" for *Bloomberg Tax*, as well as writing the introduction to the weekly newsletter "[Week in Insights](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22Andrew%20leahey%22%20%22week%20in%20insights%22%0A)".
 
 I am a contributor to *Forbes* [Taxes](https://www.forbes.com/taxes/) section.
 

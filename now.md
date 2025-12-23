@@ -5,15 +5,15 @@ permalink: /now/
 ---
 What am I up to? You mean like [nownownow](https://nownownow.com/about "NowNowNow.com")?
 
-## **Summer 2025**
+## **Winter 2026**
 
 ### Teaching
 
-I'm not teaching over the summer quarter. I'll be returning to Drexel Kline School of Law as an Assistant Professor beginning September 1.
+I'm teaching LAW-110 - *American Legal Systems* and a 200-level electives course entitled *Law, Technology, and Regulation*.
 
 ### Writing
 
-I continue to write my weekly column "[Technically Speaking](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22andrew%20leahey)" for *Bloomberg Tax*, as well as writing the introduction to the weekly newsletter "[Week in Insights](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22Andrew%20leahey%22%20%22week%20in%20insights%22%0A)".
+I continue to write my weekly column "[Technically Speaking](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22andrew%20leahey)" for *Bloomberg Tax*, as well as writing the introduction to the weekly newsletter [Week in Insights](https://news.bloombergtax.com/tax-insights-and-commentary/search?query=%22Andrew%20leahey%22%20%22week%20in%20insights%22%0A).
 
 I am a contributor to *Forbes* [Taxes](https://www.forbes.com/taxes/) section.
 

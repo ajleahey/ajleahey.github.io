@@ -46,6 +46,7 @@ show_excerpts: true
 
 header_pages:
   - about.md
+  - /frontmatter/index.md
   - now.md
   - projects.md
   - links.md
